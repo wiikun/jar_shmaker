@@ -1,0 +1,2 @@
+# jar_shmaker
+linux用のjarファイル実行スクリプト作成プログラムです
